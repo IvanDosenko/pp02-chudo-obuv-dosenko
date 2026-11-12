@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+.venv/
+.vscode/
+*.png
+!resources/picture.png 
